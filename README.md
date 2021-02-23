@@ -1,4 +1,4 @@
-# Password List Creator
+# Şifre Listesi Oluşturucu
 Kendinizin Veya Başka Bir Şahısın Bilgilerini Girersiniz Bu Bilgilerle Bir Şifre Listesi Oluşturur.
 
 # Kullanım
